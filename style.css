@@ -1,0 +1,21 @@
+.panda-bg-info{
+    background-color: rgb(252, 234, 232);
+}
+.panda-bg-danger{
+   background-color: rgb(255, 165, 0) ;
+}
+.panda-bg-primary{
+    background-color: rgb(218, 112, 214);
+}
+.panda-bg-success{
+background-color: rgb(0, 0, 255);
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-warning{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
